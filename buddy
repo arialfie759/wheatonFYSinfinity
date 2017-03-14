@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+  
+  cout << "Enter file name containing list of Wheaton first-years and their choices" << endl;
+  cin >> fileName;
+
+}
